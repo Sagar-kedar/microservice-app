@@ -12,4 +12,7 @@ This repo is for hands-on deployment of microservice application using Kubernete
 # Step-by-Step Implementation
 
 ## 1. Set Up Kubernetes Cluster (Amazon EKS)
-* Create an EKS cluster
+* Create an EKS cluster using AWS UI
+* Verify cluster:
+  `sh`
+  
