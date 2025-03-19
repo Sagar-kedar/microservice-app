@@ -8,3 +8,8 @@ This repo is for hands-on deployment of microservice application using Kubernete
 **Artifact Repository** - Amazon ECR for storing images \
 **Continuous Deployment (CD)** - Helm deploys to Kubernetes (Amazon EKS) \
 **Monitoring & Logging** - Prometheus, Grafana \
+
+# Step-by-Step Implementation
+
+## 1. Set Up Kubernetes Cluster (Amazon EKS)
+* Create an EKS cluster
